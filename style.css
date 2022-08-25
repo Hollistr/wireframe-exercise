@@ -1,0 +1,17 @@
+header {
+    border: thin solid red;
+}
+
+nav {
+    display: inline-block;
+    width: 20%;
+    vertical-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+    display: inline-block;
+    width: 30%;
+}
+
